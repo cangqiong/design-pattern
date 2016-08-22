@@ -1,4 +1,4 @@
-package chason.program.singleton;
+package org.pattern.singleton;
 
 /**
  * @author chaon
