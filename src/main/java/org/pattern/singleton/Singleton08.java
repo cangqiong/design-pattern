@@ -1,9 +1,10 @@
 package org.pattern.singleton;
 
 /**
+ * 枚举式单例模式
+ *
  * @author chaon
  * @date 2016/8/22.
- * @description 枚举式单例模式
  */
 public enum Singleton08 {
     INSTANCE;

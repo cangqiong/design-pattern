@@ -1,9 +1,10 @@
 package org.pattern.singleton;
 
 /**
+ * 饿汉式单例模式
+ *
  * @author chaon
  * @date 2016/8/22.
- * @description 饿汉式单例模式
  */
 public class Singleton02 {
 

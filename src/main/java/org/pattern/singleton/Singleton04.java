@@ -1,9 +1,10 @@
 package org.pattern.singleton;
 
 /**
+ * double checked 单例模式（多线程安全）
+ *
  * @author chaon
  * @date 2016/8/22.
- * @description double checked 单例模式（多线程安全）
  */
 public class Singleton04 {
 

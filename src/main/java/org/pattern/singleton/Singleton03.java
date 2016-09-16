@@ -1,9 +1,10 @@
 package org.pattern.singleton;
 
 /**
+ * 懒汉式单例模式（多线程安全）
+ *
  * @author chaon
  * @date 2016/8/22.
- * @description 懒汉式单例模式（多线程安全）
  */
 public class Singleton03 {
 

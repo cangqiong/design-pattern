@@ -1,9 +1,10 @@
 package org.pattern.singleton;
 
 /**
+ * double checked and volatile 单例模式
+ *
  * @author chaon
  * @date 2016/8/22.
- * @description double checked and volatile 单例模式
  */
 public class Singleton05 {
 
